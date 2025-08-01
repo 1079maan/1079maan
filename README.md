@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Projects
-📊 **T20 Cricket World Cup Data Analysis & Dashboard**
+📊 ****T20 Cricket World Cup Data Analysis & Dashboard****
 
 Objective:
 
