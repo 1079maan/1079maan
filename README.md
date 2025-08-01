@@ -30,7 +30,8 @@
 ---
 
 ## 🚀 Projects
-📊 T20 Cricket World Cup Data Analysis & Dashboard
+📊 **T20 Cricket World Cup Data Analysis & Dashboard**
+
 Objective: This project is an end-to-end data analytics case study focused on the T20 Cricket World Cup. It involves a full pipeline from raw data processing to creating an interactive, insight-driven dashboard. The goal was to transform complex cricket statistics into actionable insights about player and team performance.
 
 Key Technologies:
