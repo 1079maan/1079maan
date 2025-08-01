@@ -30,25 +30,25 @@
 ---
 
 ## 🚀 Projects
-📊 ****T20 Cricket World Cup Data Analysis & Dashboard****
+📊 **T20 Cricket World Cup Data Analysis & Dashboard**
 
-Objective:
+## Objective:
 
 This project is an end-to-end data analytics case study focused on the T20 Cricket World Cup. It involves a full pipeline from raw data processing to creating an interactive, insight-driven dashboard. The goal was to transform complex cricket statistics into actionable insights about player and team performance.
 
-Key Technologies:
+## Key Technologies:
 
 Python (Pandas): Used for data cleaning, transformation, and creating a structured dataset from multiple raw CSV files. The entire ETL process is documented in a Jupyter Notebook.
 Power BI: Employed for data modeling, creating a star schema, and developing a wide range of custom DAX measures and calculated columns.
 DAX: Utilized to compute critical cricket metrics such as Batting Average, Strike Rate, Bowling Economy, and Dot Ball percentage.
 
-Project Deliverables:
+**Project Deliverables:**
 
 A clean, structured dataset ready for analysis.
 An interactive Power BI dashboard that allows users to explore player and team performance with dynamic filters.
 The entire project, including the Jupyter Notebook, DAX formulas, and the Power BI file, is available in its dedicated repository.
 
-Skills Demonstrated:
+**Skills Demonstrated:**
 
 Data Wrangling, ETL, Data Modeling, Business Intelligence, Data Visualization, and Proficiency in Python, Pandas, Power BI, and DAX.
 
