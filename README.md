@@ -43,7 +43,9 @@ Project Deliverables:
 A clean, structured dataset ready for analysis.
 An interactive Power BI dashboard that allows users to explore player and team performance with dynamic filters.
 The entire project, including the Jupyter Notebook, DAX formulas, and the Power BI file, is available in its dedicated repository.
-Skills Demonstrated: Data Wrangling, ETL, Data Modeling, Business Intelligence, Data Visualization, and Proficiency in Python, Pandas, Power BI, and DAX.
+
+Skills Demonstrated: 
+Data Wrangling, ETL, Data Modeling, Business Intelligence, Data Visualization, and Proficiency in Python, Pandas, Power BI, and DAX.
 
 
 ## 🏆 Achievements & Certifications
