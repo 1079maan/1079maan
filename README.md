@@ -1,7 +1,8 @@
 # Hi I'm **Maan Vaishnani**! 👋
 
 
-🚀 **Aspiring Data Analyst** | 
+🚀 **Aspiring Data Analyst** |
+
 🔍 Aspiring Data Analyst | Power BI | SQL | Python | MCA Student at D.Y. Patil University
 
 ---
