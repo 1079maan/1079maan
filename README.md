@@ -61,7 +61,7 @@ Created a clean and responsive UI using HTML, CSS, and JavaScript that sends use
 **How to Run**
 
 1.Clone the repository:
-git clone https://github.com/yourusername/placement-prediction.git
+git clone https://github.com/1079maan/Student-Placement-Prediction-using-ML-model
 cd placement-prediction
 
 2.Install dependencies:
