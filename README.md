@@ -30,7 +30,50 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects 
+
+📊 **Placement Prediction using Machine Learning**
+
+**Tech Stack:** Python | Scikit-learn | Flask | HTML/CSS/JavaScript
+
+**Project Overview**
+
+This project predicts whether a student will be placed based on their CGPA and IQ using a machine learning model. It includes a complete ML pipeline, from data processing to deployment using Flask and a simple web interface.
+
+**Features**
+
+**Machine Learning Pipeline**
+
+Performed data exploration, preprocessing, and feature scaling using Pandas, NumPy, and Scikit-learn.
+
+**Model Training**
+
+Trained a Logistic Regression model to classify placement status, achieving high accuracy.
+
+**Backend Integration**
+
+Developed a Flask REST API to serve the model for real-time predictions.
+
+**Frontend Interface**
+
+Created a clean and responsive UI using HTML, CSS, and JavaScript that sends user input to the backend and displays predictions dynamically.
+
+**How to Run**
+
+1.Clone the repository:
+git clone https://github.com/yourusername/placement-prediction.git
+cd placement-prediction
+
+2.Install dependencies:
+pip install -r requirements.txt
+
+3.Run the Flask app:
+python app.py
+
+4.Open your browser and go to:
+http://127.0.0.1:5000/
+
+
 📊 **T20 Cricket World Cup Data Analysis & Dashboard**
 
 **Objective:**
