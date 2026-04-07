@@ -2,7 +2,7 @@
 
 # Hi, I'm Maan Vaishnani 👋
 
-### Aspiring Data Analyst · MCA Data Science · Pune
+### Data Analyst · MCA Data Science · Pune
 
 *Transforming raw data into intelligent, actionable insights*
 
