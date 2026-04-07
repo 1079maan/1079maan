@@ -187,7 +187,6 @@ Preferred locations: **Pune · Mumbai · Ahmedabad · Gujarat**
 |---|---|
 | 📧 Email | [maanvaishnani2004@gmail.com](mailto:maanvaishnani2004@gmail.com) |
 | 💼 LinkedIn | [linkedin.com/in/maan-vaishnani](https://www.linkedin.com/in/maan-vaishnani) |
-| 💻 GitHub | [github.com/1079maan](https://github.com/1079maan) |
 
 ---
 
