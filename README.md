@@ -21,7 +21,7 @@ I am a final-year **MCA (Data Science)** student at D.Y. Patil University, Pune 
 
 I completed a **6-month internship as a Junior Automation Test Engineer** at PrimeQA Solutions, where I developed skills in structured testing workflows, documentation, and quality analysis — which I now apply to my data work.
 
-I am actively seeking entry-level **Data Analyst** roles in **Pune, Mumbai, Ahmedabad, or anywhere in Gujarat**.
+I am actively seeking **Data Analyst** roles in **Pune, Mumbai, Ahmedabad, or anywhere in Gujarat**.
 
 ```
 Education
